@@ -1,6 +1,3 @@
-package tasklist;
-// Java program to demonstrate working of ArrayList in Java
-
 import java.io.*;
 import java.util.*;
 import java.util.Collections;
